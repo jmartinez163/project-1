@@ -1,0 +1,25 @@
+h1 {color:blue;font-size: 300%;font-family: comic sans MS}
+.link { width:30%; float:right; font-family: impact; font-size: 200%;}
+.class2 {color:red;}
+.class3 {color:white;font-size: 300%;}
+.class4{color:yellow; font-size:300%}
+p {color:darkgrey; font-family:tahoma; width: 50%; float: left;}
+.p2 {color:navy; font-family: tahoma; width: 50%; float: left; }
+.p3 {color:yellow; font-family: tahoma; width: 50%; float: left; }
+body {background-color: black;}
+.background {background-color: grey;}
+.background2 {background-color: firebrick;}
+.background3 {background-color: darkolivegreen;}
+.background4{background-color: maroon;}
+.background5{background-color: darkcyan;}
+.image{position: fixed;
+    bottom: 0;
+    right: 2;
+    width: 00px;
+    height:300px;
+    }
+    .image2{position: fixed;
+    bottom: 0;
+    right: 2;
+    width: 300px;
+    height:300px;}
